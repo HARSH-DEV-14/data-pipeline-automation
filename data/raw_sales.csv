@@ -1,0 +1,7 @@
+Transaction_ID,Date,Product_Category,Units_Sold,Unit_Price,Customer_Region
+1001,2026-09-01,Electronics,5,120.00,North
+1002,2026-09-02,Clothing,12,25.50,West
+1003,2026-09-02,Electronics,2,450.00,East
+1004,2026-09-03,Home & Kitchen,8,35.00,North
+1005,2026-09-04,Clothing,15,20.00,South
+1006,2026-09-04,Electronics,1,899.99,West
